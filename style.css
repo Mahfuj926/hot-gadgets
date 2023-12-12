@@ -1,0 +1,16 @@
+.containerbanner{
+  padding: 0px 300px;
+  background-image: url(images/bg-2.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
+.col-md-5{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+}
+.buy-now-btn{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
