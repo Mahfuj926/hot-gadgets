@@ -4,6 +4,9 @@
   background-repeat: no-repeat;
   background-position: left bottom;
 }
+.container{
+  margin-top: 100px;
+}
 .col-md-5{
     background-image: url(images/bg-1.png);
     background-repeat: no-repeat;
@@ -13,4 +16,40 @@
     background-color: black;
     border: none;
     border-radius: 5px;
+}
+.orange-color{
+color: orange;
+}
+.card{
+  padding: 15px 10px;
+  border: 0cap;
+  box-shadow: 10px 10px 15px lightgray;
+}
+.card h5{
+  text-align: center;
+}
+.card p{
+  text-align: center;
+}
+.card, .buy-now-btn{
+  text-align: center;
+}
+.col .card{
+  border: none;
+}
+.cat h1{
+  text-align: center;
+}
+.row .col-lg-3 img{
+  border: none;
+  box-shadow: 4px 4px 4px 4px lightgray;
+  border-radius: 5px;
+  position: relative;
+}
+.mid-img{
+  margin-top: 50px;
+}
+footer p{
+  text-align: center;
+  color: rgb(46, 43, 59);
 }
